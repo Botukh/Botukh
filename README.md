@@ -7,7 +7,7 @@ I am a Python developer.<br>
 
 <hr>
 
-<h2>🚀 Projects</h2>
+<h3>🚀 Projects</h3>
 
 <h3>Backend</h3>
 <ul>
