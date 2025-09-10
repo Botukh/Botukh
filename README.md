@@ -12,10 +12,13 @@ I am a Python developer.<br>
 <h4>Backend</h4>
 <ul>
   <li>
-    <a href="https://github.com/username/yacut">YaCut</a> — URL shortener built with <b>Flask + SQLAlchemy</b>, featuring API, user interface, and file upload to Yandex.Disk.
+    <a href="https://github.com/Botukh/link_cut">LinkCut</a> — URL shortener built with <b>Flask + SQLAlchemy</b>, featuring API, user interface, and asynchronous file upload to the cloud.
   </li>
   <li>
-    <a href="https://github.com/username/file-uploader">FileUploader</a> — web application for uploading files to the cloud via API.
+    <a href="https://github.com/Botukh/photo_blog">Photo_blog</a> — photo sharing website with posts, comments, and user auth. Built with Django REST API, PostgreSQL, Docker, and Nginx, with CI/CD on GitHub Actions and a simple JavaScript frontend.
+  </li>
+  <li>
+    <a href="https://github.com/Botukh/recipes_blog">Recipes_blog</a> — a recipe sharing website where users can publish recipes, add favorites, follow authors, and generate shopping lists for selected dishes. Built with Django REST API, PostgreSQL, Docker, Nginx, and deployed via CI/CD with GitHub Actions + Docker Hub.
   </li>
 </ul>
 
