@@ -19,7 +19,7 @@ I am a Python developer.<br>
   </li>
 </ul>
 
-<h3>Machine Learning / AI</h3>
+<h4>Machine Learning / AI</h4>
 <ul>
   <li>
     <a href="https://github.com/Botukh//job-tracker-ai">JobTrackerAI</a> — career assistant that stores job applications, tracks statuses, and helps generate resumes and cover letters.
@@ -31,7 +31,7 @@ I am a Python developer.<br>
 
 <hr>
 
-<h2>🛠️ Tech Stack</h2>
+<h3>🛠️ Tech Stack</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -48,7 +48,7 @@ I am a Python developer.<br>
 
 <hr>
 
-<h2>📊 GitHub Stats</h2>
+<h3>📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Botukh&show_icons=true&theme=tokyonight" height="150"/>
@@ -65,7 +65,7 @@ I am a Python developer.<br>
 <p align="center">✨ Thanks for visiting my profile!<br>
 I am open to collaboration and new opportunities.</p>
 
-<h2>📫 How to reach me:</h2>
+<h3>📫 How to reach me:</h3>
 <ul>
   <li>📧 Email: botuh56oren@gmail.com</li>
   <li>🌐 Telegram: <a href="https://t.me/botuh">@botuh</a></li>
