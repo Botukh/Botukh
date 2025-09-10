@@ -12,7 +12,7 @@ I am a Python developer.<br>
 <h4>Backend</h4>
 <ul>
   <li>
-    <a href="https://github.com/Botukh/link_cut">LinkCut</a> — URL shortener built with <b>Flask + SQLAlchemy</b>, featuring API, user interface, and asynchronous file upload to the cloud.
+    <a href="https://github.com/Botukh/link_cut">LinkCut</a> — URL shortener built with Flask, SQLAlchemy, featuring API, user interface, and asynchronous file upload to the cloud.
   </li>
   <li>
     <a href="https://github.com/Botukh/photo_blog">Photo_blog</a> — photo sharing website with posts, comments, and user auth. Built with Django REST API, PostgreSQL, Docker, and Nginx, with CI/CD on GitHub Actions and a simple JavaScript frontend.
