@@ -62,13 +62,11 @@ I am a Python developer.<br>
 
 <hr>
 
+<p align="center">✨ Thanks for visiting my profile!<br>
+I am open to collaboration and new opportunities.</p>
+
 <h2>📫 How to reach me:</h2>
 <ul>
   <li>📧 Email: botuh56oren@gmail.com</li>
   <li>🌐 Telegram: <a href="https://t.me/botuh">@botuh</a></li>
 </ul>
-
-<hr>
-
-<p align="center">✨ Thanks for visiting my profile!<br>
-I am open to collaboration and new opportunities.</p>
