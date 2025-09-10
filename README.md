@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi there! I'm Julia Botukh</h1>
+<h2 align="center">👋 Hi there! I'm Julia Botukh</h2>
 
 <p align="center">
 I am a Python developer.<br>
