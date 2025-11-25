@@ -41,8 +41,6 @@ I am a Python developer.<br>
 
 <hr>
 
-<hr>
-
 <p align="center">✨ Thanks for visiting my profile!<br>
 I am open to collaboration and new opportunities.</p>
 
