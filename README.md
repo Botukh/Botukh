@@ -22,16 +22,6 @@ I am a Python developer.<br>
   </li>
 </ul>
 
-<h4>Machine Learning / AI</h4>
-<ul>
-  <li>
-    <a href="https://github.com/Botukh//job-tracker-ai">JobTrackerAI</a> — career assistant that stores job applications, tracks statuses, and helps generate resumes and cover letters.
-  </li>
-  <li>
-    <a href="https://github.com/Botukh//recsys-pet">RecSysPet</a> — recommendation system built with <b>PyTorch</b> for personalized content suggestions.
-  </li>
-</ul>
-
 <hr>
 
 <h3>🛠️ Tech Stack</h3>
@@ -50,18 +40,6 @@ I am a Python developer.<br>
 </p>
 
 <hr>
-
-<h3>📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Botukh&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Botukh&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Botukh&theme=tokyonight" height="150"/>
-</p>
-
 
 <hr>
 
